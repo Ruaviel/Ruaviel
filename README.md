@@ -54,4 +54,10 @@ Ruaviel’s architecture is designed to protect vulnerable individuals through a
 - Dignity over pressure  
 - Stability over extraction  
 - Transparency over complexity  
-- Mercy over performance  
+- Mercy over performance
+
+
+## Humanitarian Purpose
+
+Ruaviel is a structural humanitarian system designed to protect individuals facing displacement, financial stress, or housing instability. Its architecture restores dignity through stability, transparency, and mercy driven design, shielding vulnerable people from predatory housing practices and giving them a real path toward home.
+
