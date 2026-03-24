@@ -16,3 +16,21 @@ Early architecture and narrative direction are complete. Prototype development i
 
 
 
+
+
+## Roadmap
+
+### Phase 1 — Sanctuary Architecture (Complete)
+- Mercy framing and narrative foundation
+- Protected lease to own model
+- Humanitarian support flow design
+
+### Phase 2 — Prototype Development (In Progress)
+- Frontend refinement
+- Basic on chain interactions
+- User flow for displaced individuals
+
+### Phase 3 — DAO + Grant Integration (Upcoming)
+- Covenant aligned DAO logic
+- Automated mercy flows
+- Grant submissions (Polygon, Base, Gitcoin, etc.)
