@@ -84,3 +84,25 @@ Developers contributing to Ruaviel should prioritize:
 - Human dignity over growth metrics  
 
 Ruaviel is not a fintech product. It is a structural humanitarian system designed to restore belonging and provide a protected path toward home.
+
+
+
+## DAO Logic Overview
+
+Ruaviel’s DAO is designed to protect the sanctuary’s tone, enforce non negotiable principles, and ensure that no future builder can introduce predatory or extractive logic. Its purpose is stewardship, not control.
+
+### Core Governance Principles
+- **Covenant over consensus:** The DAO enforces guardrails, not popularity contests.  
+- **Protection over optimization:** Decisions must preserve mercy, stability, and transparency.  
+- **No financial governance power:** Wealth cannot influence outcomes or override sanctuary rules.  
+- **Hidden steward posture:** No individual may elevate themselves through governance roles.
+
+### Functional Responsibilities
+- Maintain and enforce non negotiable principles  
+- Approve or reject proposed technical changes  
+- Protect the lease to own pathway from distortion  
+- Ensure humanitarian flows remain transparent and non extractive  
+- Preserve the sanctuary tone across all future phases  
+
+Ruaviel’s DAO is not designed for speculation or tokenized influence. It is a structural safeguard that ensures the architecture remains a sanctuary for generations.
+
