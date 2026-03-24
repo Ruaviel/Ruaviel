@@ -61,3 +61,26 @@ Ruaviel’s architecture is designed to protect vulnerable individuals through a
 
 Ruaviel is a structural humanitarian system designed to protect individuals facing displacement, financial stress, or housing instability. Its architecture restores dignity through stability, transparency, and mercy driven design, shielding vulnerable people from predatory housing practices and giving them a real path toward home.
 
+
+
+
+## Future Builder Notes
+
+Ruaviel is a sanctuary-first architecture. Any future development must preserve its mercy-driven tone and protect vulnerable individuals from pressure, extraction, or exploitation.
+
+### Non Negotiable Principles
+- **No predatory logic** may be introduced at any layer.
+- **No performance-based pressure** on users.
+- **No debt traps, hidden fees, or coercive incentives.**
+- **Transparency must remain simple and human-readable.**
+- **The steward remains hidden; the system serves the people.**
+- **Branding, marketing, and promotional content are strictly prohibited in Ruaviel at all times.**
+
+### Builder Guidance
+Developers contributing to Ruaviel should prioritize:
+- Stability over speed  
+- Clarity over complexity  
+- Mercy over optimization  
+- Human dignity over growth metrics  
+
+Ruaviel is not a fintech product. It is a structural humanitarian system designed to restore belonging and provide a protected path toward home.
