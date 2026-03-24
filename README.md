@@ -113,3 +113,59 @@ Ruaviel’s DAO is not designed for speculation or tokenized influence. It is a 
 Ruaviel must remain quiet, merciful, and non performative. Every layer of the system—technical, visual, and relational—should reflect stability, dignity, and belonging. The architecture is designed to hold people gently, without pressure, hype, or self promotion.
 
 The sanctuary tone is not aesthetic. It is structural. It protects the hiddenness of the steward, the dignity of the guest, and the purity of the covenant.
+
+
+
+## Covenant Protections, Offering Structure & Continuity
+
+Ruaviel’s covenant architecture is designed to protect guests, preserve mercy, and ensure that no predatory or extractive logic can ever enter the system. The following structures safeguard the sanctuary across all terrains, seasons, and future builders.
+
+---
+
+## 20% Covenant Offering (Multiple Accumulation Paths)
+
+The 20% offering is not a traditional down payment. It is a covenant contribution that can be fulfilled through multiple protected pathways, depending on the guest’s capacity and season of life.
+
+### Accumulation Paths
+- **Financial Offering:** Crypto or fiat contributions, given freely without pressure.  
+- **Service Contribution:** Documented service hours converted into covenant credit at a dignity preserving rate.  
+- **Hybrid Path:** A combination of offering and service, allowing guests to contribute in the way that honors their reality.
+
+This structure removes shame, eliminates gatekeeping, and ensures every guest can move toward home without fear.
+
+---
+
+## Hardship Pathway & Mercy Protections
+
+Ruaviel is built for people facing instability. If a guest experiences hardship:
+
+- They **cannot** be evicted.  
+- Their progress **cannot** be erased.  
+- Their covenant credit **cannot** be reset.  
+- Payments may be paused without penalty.  
+- Service hours may be used to continue progress.  
+- Repayment to the DAO can occur gently over time.  
+
+The sanctuary holds people gently, even when they cannot hold themselves.
+
+---
+
+## Work Back Pathway (Repaying the DAO Through Service)
+
+Guests who fall behind financially may continue progressing through:
+
+- maintenance work  
+- community service  
+- administrative support  
+- humanitarian contribution  
+- skill based offerings  
+
+Every hour is documented and converted into covenant credit.  
+No shame.  
+No punishment.  
+No reset.
+
+---
+
+## Oracle & Verification Layer (Chainlink
+
