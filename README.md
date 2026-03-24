@@ -36,3 +36,22 @@ Early architecture and narrative direction are complete. Prototype development i
 - Covenant aligned DAO logic
 - Automated mercy flows
 - Grant submissions (Polygon, Base, Gitcoin, etc.)
+
+
+
+
+## Architecture
+
+Ruaviel’s architecture is designed to protect vulnerable individuals through a transparent, mercy driven structure. It combines a protected lease to own pathway with humanitarian support flows, ensuring stability without predatory pressure.
+
+### Core Components
+- **Sanctuary Layer:** A safe, non extractive user experience for individuals facing displacement.
+- **Lease to Own Pathway:** A structured progression toward ownership without debt traps or hidden pressure.
+- **Humanitarian Support Flows:** Optional assistance mechanisms that stabilize individuals during crisis.
+- **On Chain Transparency:** Simple, auditable logic that prevents manipulation or exploitation.
+
+### Design Principles
+- Dignity over pressure  
+- Stability over extraction  
+- Transparency over complexity  
+- Mercy over performance  
