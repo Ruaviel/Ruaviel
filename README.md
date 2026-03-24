@@ -106,3 +106,10 @@ Ruaviel’s DAO is designed to protect the sanctuary’s tone, enforce non negot
 
 Ruaviel’s DAO is not designed for speculation or tokenized influence. It is a structural safeguard that ensures the architecture remains a sanctuary for generations.
 
+
+
+## Sanctuary Tone
+
+Ruaviel must remain quiet, merciful, and non performative. Every layer of the system—technical, visual, and relational—should reflect stability, dignity, and belonging. The architecture is designed to hold people gently, without pressure, hype, or self promotion.
+
+The sanctuary tone is not aesthetic. It is structural. It protects the hiddenness of the steward, the dignity of the guest, and the purity of the covenant.
