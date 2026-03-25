@@ -228,7 +228,7 @@ Ruaviel is designed to remain stable across technological, economic, and social 
 
 The current front end prototype of Ruaviel is deployed on AWS Amplify.
 
-**Live Prototype:** https://main.d236rw6i8uhs0p.amplifyapp.com
+**Live Prototype:** https://main.dzks3u0sjrt6y.amplifyapp.com
 
 This prototype demonstrates:
 - the early sanctuary flow  
