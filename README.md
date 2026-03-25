@@ -190,6 +190,11 @@ No reset.
 - Partnerships with humanitarian networks  
 - Scaling to multiple regions  
 
+### Future Considerations & Long Term Protection
+Ruaviel is designed to remain stable across technological, economic, and social transitions. As automation and AI reshape the workforce, and as financial systems—including crypto and traditional markets—experience volatility or power shifts, many individuals may face new forms of instability or displacement. Housing markets may also experience rising rents or sudden cost increases that place additional pressure on vulnerable individuals. Ruaviel’s covenant architecture, hardship pathways, and non extractive lease to own model ensure that guests remain protected regardless of changes in employment, income patterns, or broader economic conditions. The sanctuary is built to hold people gently through future uncertainties, offering stability when traditional systems may not.
+
+
+
 
 ##  Architecture Diagram
 
