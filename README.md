@@ -1,3 +1,39 @@
+# Ruaviel — A Mercy Sanctuary for People in Hardship
+
+Ruaviel is a humanitarian covenant system designed to protect people facing instability, displacement, or financial hardship. It creates a gentle, transparent pathway toward stability and belonging through decentralized verification, mercy protections, and a trust minimized architecture.
+
+---
+
+##  Mission
+To restore dignity, stability, and belonging for people in hardship through a sanctuary based system that protects the vulnerable, removes predatory pressure, and creates a real path home.
+
+---
+
+##  Why Blockchain
+Ruaviel uses decentralized verification to ensure:
+- fairness without bias  
+- protection from exploitation  
+- transparent pathways  
+- trust minimized decision making  
+- automated mercy protections  
+
+This prevents any single human or institution from controlling someone’s stability.
+
+---
+
+##  Architecture Overview
+Ruaviel is built in three layers:
+1. **Covenant Layer** — tone, mercy logic, humanitarian protections  
+2. **Verification Layer (Chainlink)** — real world truth, oracle based validation  
+3. **DAO Layer (Phase 2)** — community governance, hardship pathways, contribution logic  
+
+---
+
+##  Covenant Pathways & Mercy Protections
+
+
+
+
 # Ruaviel
 
 Ruaviel is a mercy sanctuary for people facing displacement, financial stress, or housing instability. It builds a protected lease to own pathway and humanitarian support system designed to restore dignity, stability, and belonging. The architecture is simple, transparent, and built to shield vulnerable people from predatory pressure while offering a real path home.
