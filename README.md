@@ -195,21 +195,32 @@ Ruaviel is designed to remain stable across technological, economic, and social 
 
 
 
+## Architecture Diagram
 
-##  Architecture Diagram
+### High Level Architecture Diagram (Text Version)
 
-A visual architecture diagram will be added here to illustrate:
+**Sanctuary Layer (Covenant Logic & Mercy Protections)**
+- Holds the covenant rules that protect guests from extraction.
+- Enforces hardship pathways, non predatory terms, and stability guarantees.
+- Ensures tone, mercy, and belonging remain structurally embedded.
 
-- The Sanctuary Layer (covenant logic, mercy protections)
-- The Verification Layer (oracle-based truth, decentralized validation)
-- The DAO Layer (Phase 2 governance, hardship pathways, contribution logic)
-- How guests move through the system
-- How protections activate during hardship
+**Interaction Layer (Process Medium & Decentralized Validation)**
+- Handles guest onboarding, identity confirmation, and contribution tracking.
+- Connects front end flows to decentralized truth sources.
+- Uses oracle verified data to prevent manipulation or bias.
 
-This section will include:
-- A high-level system diagram
-- Data flow overview
-- Phase 2 DAO logic outline
+**DAO Layer (Governance Medium)**
+- Manages transparent decision making without concentrating power.
+- Enforces guardrails that prevent predatory behavior or financial dominance.
+- Allocates treasury flows, grace pools, and community offerings.
+
+**Protection Flow (How Stability Moves Through the System)**
+- Guest → Sanctuary Layer (covenant protections)
+- Sanctuary Layer → Interaction Layer (validated processes)
+- Interaction Layer → DAO Layer (transparent governance)
+- DAO Layer → Guest (stability, mercy, and long term belonging)
+
+
 
 ---
 
