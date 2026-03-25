@@ -32,14 +32,14 @@ Ruaviel is built in three layers:
 ##  Covenant Pathways & Mercy Protections
 
 
-
-
 # Ruaviel
 
 Ruaviel is a mercy sanctuary for people facing displacement, financial stress, or housing instability. It builds a protected lease to own pathway and humanitarian support system designed to restore dignity, stability, and belonging. The architecture is simple, transparent, and built to shield vulnerable people from predatory pressure while offering a real path home.
 
+
 ## Mission
 To create a safe, stable, and transparent on chain structure that protects vulnerable individuals and restores dignity through mercy driven design.
+
 
 ## Core Features
 - Protected lease to own pathway  
@@ -47,26 +47,25 @@ To create a safe, stable, and transparent on chain structure that protects vulne
 - Transparent, simple on chain architecture  
 - Sanctuary based experience designed for belonging  
 
+
 ## Status
 Early architecture and narrative direction are complete. Prototype development is ongoing.
 
 
-
-
-
-
-
 ## Roadmap
+
 
 ### Phase 1 — Sanctuary Architecture (Complete)
 - Mercy framing and narrative foundation
 - Protected lease to own model
 - Humanitarian support flow design
+  
 
 ### Phase 2 — Prototype Development (In Progress)
 - Frontend refinement
 - Basic on chain interactions
 - User flow for displaced individuals
+  
 
 ### Phase 3 — DAO + Grant Integration (Upcoming)
 - Covenant aligned DAO logic
@@ -74,17 +73,17 @@ Early architecture and narrative direction are complete. Prototype development i
 - Grant submissions (Polygon, Base, Gitcoin, etc.)
 
 
-
-
 ## Architecture
 
 Ruaviel’s architecture is designed to protect vulnerable individuals through a transparent, mercy driven structure. It combines a protected lease to own pathway with humanitarian support flows, ensuring stability without predatory pressure.
+
 
 ### Core Components
 - **Sanctuary Layer:** A safe, non extractive user experience for individuals facing displacement.
 - **Lease to Own Pathway:** A structured progression toward ownership without debt traps or hidden pressure.
 - **Humanitarian Support Flows:** Optional assistance mechanisms that stabilize individuals during crisis.
 - **On Chain Transparency:** Simple, auditable logic that prevents manipulation or exploitation.
+  
 
 ### Design Principles
 - Dignity over pressure  
@@ -99,7 +98,6 @@ Ruaviel is a structural humanitarian system designed to protect individuals faci
 
 
 
-
 ## Future Builder Notes
 
 Ruaviel is a sanctuary-first architecture. Any future development must preserve its mercy-driven tone and protect vulnerable individuals from pressure, extraction, or exploitation.
@@ -111,6 +109,7 @@ Ruaviel is a sanctuary-first architecture. Any future development must preserve 
 - **Transparency must remain simple and human-readable.**
 - **The steward remains hidden; the system serves the people.**
 - **Branding, marketing, and promotional content are strictly prohibited in Ruaviel at all times.**
+
 
 ### Builder Guidance
 Developers contributing to Ruaviel should prioritize:
@@ -127,11 +126,13 @@ Ruaviel is not a fintech product. It is a structural humanitarian system designe
 
 Ruaviel’s DAO is designed to protect the sanctuary’s tone, enforce non negotiable principles, and ensure that no future builder can introduce predatory or extractive logic. Its purpose is stewardship, not control.
 
+
 ### Core Governance Principles
 - **Covenant over consensus:** The DAO enforces guardrails, not popularity contests.  
 - **Protection over optimization:** Decisions must preserve mercy, stability, and transparency.  
 - **No financial governance power:** Wealth cannot influence outcomes or override sanctuary rules.  
 - **Hidden steward posture:** No individual may elevate themselves through governance roles.
+
 
 ### Functional Responsibilities
 - Maintain and enforce non negotiable principles  
@@ -205,7 +206,6 @@ No reset.
 
 ## Oracle & Verification Layer (Chainlink
 
-
 ---
 
 ##  Roadmap
@@ -260,7 +260,19 @@ This section will include:
 - Data flow overview
 - Phase 2 DAO logic outline
 
+---
 
+##  Prototype (Phase 1)
+
+The current front end prototype of Ruaviel is deployed on AWS Amplify.
+
+**Live Prototype:** https://main.d236rw6i8uhs0p.amplifyapp.com
+
+This prototype demonstrates:
+- the early sanctuary flow  
+- the covenant based interaction model  
+- the initial guest experience  
+- the foundation for Phase 2 DAO logic  
 
 ---
 
@@ -284,5 +296,14 @@ Each pathway will correspond to a different human ache or burden, such as:
 The system will route guests into a visual journey that mirrors the tone of “The Power of One,” with multiple versions crafted for different forms of human struggle. These experiences are designed to offer a moment of stillness, resonance, and dignity for guests who feel overwhelmed or unseen.
 
 This experiential layer will be built in Phase 3, after the DAO logic and verification systems are established.
+
+---
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and build upon this code, provided that proper attribution is given. The covenant tone, sanctuary identity, and humanitarian purpose of Ruaviel should be preserved in all derivative works.
+
+
+---
 
 
