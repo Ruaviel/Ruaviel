@@ -5,12 +5,12 @@ Through transparent and automated rules, Ruaviel ensures that individuals are ne
 
 
 Phase 1 Pilot (MVP)
-
+This Phase 1 pilot tests whether a minimal on-chain system can track contributions and activate hardship protections in real time through transparent, non-punitive rules without reliance on discretionary human enforcement.
 
 Goal
 
 
-Build a minimal on-chain system that replaces “punitive housing logic” with contribution-based stability tracking and protected hardship states.
+Build a minimal on-chain stability system that replaces punitive hardship enforecement with contribution-based tracking and protected hardship states.
 
 
 
@@ -94,7 +94,7 @@ Out of Scope (Important)
 
 
 Why Crypto
-
+This system requires trustless enforcement of hardship protections that cannot depend on discretionary human approval.
 
 •	transparent state tracking
 •	immutable contribution history
