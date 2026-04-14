@@ -10,7 +10,7 @@ This Phase 1 pilot tests whether a minimal on-chain system can track contributio
 Goal
 
 
-Build a minimal on-chain stability system that replaces punitive hardship enforecement with contribution-based tracking and protected hardship states.
+Build a minimal on-chain stability system that replaces punitive enforecement with contribution-based tracking and protected hardship states.
 
 
 
