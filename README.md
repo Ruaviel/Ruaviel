@@ -108,6 +108,105 @@ Funding Ask
 
 $25k–$40k for MVP development and deployment
 
+Phase 2 — Immutable Covenant Statement (Refined Version)
+
+Finalized April 2026
+
+1. Covenant Posture
+
+Ruaviel’s stability system is designed around a clear principle:
+
+The core covenant logic is deployed without administrative control or upgrade mechanisms.
+
+This reflects the project’s intent to minimize discretionary power and ensure predictable, transparent behavior for all participants.
+
+
+2. Immutability Characteristics
+
+The Phase 1 contract is deployed with:
+
+• no owner
+• no admin roles
+• no upgrade proxy
+• no privileged functions
+• no ability to modify past entries
+• no mechanisms to override hardship state
+• no functions that alter covenant rules after deployment
+
+
+These constraints mean the contract’s behavior is fixed at deployment and cannot be changed through administrative intervention.
+
+The contract is not upgradeable, pausable, or modifiable.
+Its state transitions follow the logic defined at deployment.
+
+
+3. Deployment Philosophy
+
+Ruaviel follows a final logic deployment approach:
+
+• the contract is deployed once
+• the logic is treated as final for this version
+• future layers must wrap around the covenant, not replace it
+• any extensions must preserve the original stability guarantees
+
+
+This approach aligns with systems that prioritize predictability and user protection over administrative flexibility.
+
+
+4. Governance Boundaries
+
+Governance or community participation may:
+
+• build interfaces
+• create visibility tools
+• propose optional extensions
+• develop surrounding infrastructure
+
+
+Governance may not:
+
+• modify covenant rules
+• change hardship logic
+• rewrite history
+• introduce administrative control
+• deploy a replacement contract that supersedes the covenant
+
+
+Governance operates around the covenant, not over it.
+
+
+5. User Trust Principles
+
+The design intent is to ensure:
+
+• predictable rules
+• transparent state transitions
+• no administrative override
+• no discretionary intervention
+• no future updates that alter the covenant logic
+
+
+This reflects Ruaviel’s commitment to reducing power asymmetry and protecting participants through structural constraints rather than human discretion.
+
+
+6. Phase 2 Completion Criteria
+
+Phase 2 is considered complete when:
+
+1. The covenant posture is documented
+2. The contract address is published
+3. The immutability characteristics are clearly stated
+4. The README reflects the final logic
+5. The system is recognized as non upgradeable
+6. The community understands the governance boundaries
+
+
+Once these are met, Ruaviel proceeds to:
+
+Phase 3 — User Interface Layer
+
+(Connect wallet → contribute → enter hardship → view history)
+
 
 
 
