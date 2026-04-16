@@ -1,7 +1,7 @@
 Ruaviel — Stability Coordination Layer
 
 
-Ruaviel is a hardship communication and coordination system that helps individuals navigate instability by improving how they communicate with existing institutions such as housing providers, lenders, employers, and utility services.
+Ruaviel is the humane layer between ‘I’m fine’ and ‘I’m in crisis’ — a stability coordination system that helps people communicate hardship early so institutions can respond before collapse.
 
 Ruaviel does not create new financial systems or legal frameworks.
 It works within existing structures by providing:
