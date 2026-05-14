@@ -198,30 +198,13 @@ Full specification:
 MIT License
 
 
- Contributing
+Contributing
+Ruaviel is an intentional system with a defined architecture and purpose.
+To maintain coherence, contributions begin with conversation, not code.
+If you have an idea or see something that needs clarification, open an issue first so it can be discussed before implementation.
+Pull requests should follow alignment, not precede it.
+This helps protect the structure of the protocol, the continuity logic, and the sanctuary-oriented tone of the system.
 
-Ruaviel has moved beyond the concept stage and now includes:
-
-- a working prototype
-- defined architectural boundaries
-- continuity logic
-- active protocol development
-
-To maintain architectural coherence, contributions are intentional and review-based.
-
-If you would like to contribute:
-
-1. Open an issue first
-2. Clearly describe the problem or proposal
-3. Explain how the change aligns with Ruaviel’s purpose
-4. Wait for discussion before submitting a pull request
-
-This process helps preserve consistency across:
-- protocol design
-- continuity logic
-- communication philosophy
-- governance boundaries
-- long-term architectural direction
 
 
 
