@@ -205,6 +205,14 @@ If you have an idea or see something that needs clarification, open an issue fir
 Pull requests should follow alignment, not precede it.
 This helps protect the structure of the protocol, the continuity logic, and the sanctuary-oriented tone of the system.
 
+V3_2 Anchor Layer (Frozen)
+
+The V3_2 Covenant Anchor is **frozen**.  
+It defines the canonical, deterministic anchor layer for Ruaviel and will not change.
+
+All future governance, proposal, or coordination logic (V4+) will be built **on top of** this layer without modifying it.
+
+See: `specs/V3_2-Specification.md`
 
 
 
