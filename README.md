@@ -216,6 +216,36 @@ See: `specs/V3_2-Specification.md`
 
 
 
+ On-Chain Anchor (Base Mainnet)
+
+Contract: CovenantAnchor.sol  
+Network: Base Mainnet  
+Address: 0x9cfc4Ed970FBfa9aea7553125e69494c41ECbe20  
+Explorer: BaseScan Contract Page
+
+ Purpose
+
+CovenantAnchor is a minimal, non-financial on-chain anchor used by the Ruaviel covenant system.
+
+It stores:
+
+- a hashed steward identifier
+- a covenant hash
+- deterministic version lineage metadata
+
+This creates a verifiable, timestamped continuity anchor for off-chain covenant coordination.
+
+The contract does not:
+
+- hold funds  
+- enforce behavior  
+- govern participants  
+- validate meaning  
+- create legal obligations  
+- interpret covenant content  
+
+All covenant meaning, communication flows, governance processes, and human coordination remain off-chain by design.
+
 
 
 
