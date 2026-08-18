@@ -1,144 +1,119 @@
-Ruaviel is a stability coordination protocol that structures hardship communication through non authoritative channels so individuals can communicate earlier, more clearly, and with greater continuity during instability.
+Ruaviel
 
-Ruaviel is a human centered system designed to help individuals communicate hardship early so institutions can respond before preventable collapse occurs. Ruaviel strengthens communication during hardship without replacing existing systems.
+A Living Sanctuary and humanitarian coordination system for stability, continuity, and relief.
 
-Ruaviel is not:
+Ruaviel combines a human-centered sanctuary experience with a humanitarian coordination layer designed to help people navigate hardship with dignity, continuity, and human stewardship.
 
-• a financial system
-• a governance system
-• an enforcement system
-• an insurance system
-• a credit system
-• a benefits or entitlement system
+The system is built around six canonical sanctuary regions:
 
+Arrival Threshold — Mercy
+Garden of Renewal — Restoration
+Reflection Space — Dignity
+Covenant Hall — Stewardship
+Path of Continuity — Continuity
+Sanctuary Core — Unity
 
-Ruaviel is a communication and continuity layer that improves coordination during instability while remaining compatible with existing institutions and legal frameworks.
+Ruaviel does not create a separate “Candle Room.” The candle ritual belongs within the existing sanctuary, specifically Covenant Hall, where symbolic participation and stewardship naturally meet.
 
----
+Dual Relief System
 
-Problem
+The Dual Relief System adds a practical humanitarian layer to the sanctuary.
 
-People often experience preventable collapse not only because of financial strain, but because communication breaks down during hardship.
+1. Candle Lighting
 
-Institutions frequently offer hardship programs, flexibility mechanisms, or support pathways, but individuals often reach them too late, without structure, or without sufficient continuity context.
+Participants may voluntarily light a symbolic candle. Lighting a candle does not require payment.
 
-Common breakdowns include:
+2. Optional Contribution
 
-• delayed communication
-• emotional overwhelm
-• fragmented support systems
-• escalating pressure without coordination
-• confusion about available options
+Participants may separately make a voluntary financial contribution.
 
+The current canonical allocation is:
 
----
+95% → Mercy / Relief Pool
+5% → Stewardship & Sustainability
 
-Solution
+The 5% allocation supports the founder/stewardship role and legitimate present or future costs required to sustain Ruaviel. Contributions do not purchase governance rights, influence over hardship decisions, or preferential treatment.
 
-Ruaviel provides:
+3. Relief Requests
 
-• early hardship signaling
-• structured communication templates
-• continuity context
-• steward support
-• optional philanthropic stabilization
+Individuals may request assistance for legitimate hardship needs such as housing, food, medical expenses, connectivity, and continuity needs.
 
+4. Two Relief Pathways
 
-The system improves timing, clarity, and coordination without overriding institutions or automating human decision making.
+Financial Relief — approved assistance toward legitimate hardship expenses.
+Time Relief — steward-mediated outreach seeking pauses, freezes, extensions, or other forms of temporary relief from creditors, landlords, or service providers.
 
----
+5. Human Stewardship
 
-Architecture Overview
+Stewards retain responsibility for evaluating hardship circumstances and coordinating sensitive human interactions. Automated systems do not replace human judgment.
 
-Individual
-↓
-Hardship Signal
-↓
-Structured Communication Templates
-↓
-Institution Response
-↓
-Continuity Layer
-↓
-Steward Support
+6. LIVE Public Transparency
 
-The continuity layer tracks patterns of stabilization and disruption over time without scoring, ranking, or automated judgment.
+Ruaviel includes a public witness layer designed to make humanitarian impact visible without exposing private hardship information.
 
----
+Aggregate information can include:
 
-Verification Layer
+candles lit
+contributions received
+funds pooled and distributed
+people assisted
+financial and time-relief outcomes
+aggregate hardship categories
 
-DAO coordinates covenant updates.
-The DAO is a coordination mechanism, not a governance authority.
-The DAO does not govern individuals, enforce outcomes, or make hardship determinations.
+No identities, medical information, addresses, individual hardship details, or other sensitive information are publicly exposed.
 
-Chainlink anchors deterministic version lineage.
-Chainlink provides verifiable continuity, not automated decision making.
+Blockchain & Verification
 
-Institutions remain fully autonomous.
+Ruaviel uses blockchain and oracle infrastructure as verification and transparency layers, not as substitutes for human judgment.
 
-Ruaviel remains off chain in meaning, coordination, and human decision making.
+Base provides the intended public transaction/ledger layer for the Dual Relief System.
 
----
+Chainlink provides constrained verification and transparency signals.
 
-Tech Stack
+DAO mechanisms coordinate protocol-level decisions without governing individual hardship outcomes.
 
-• React
-• Vite
-• Solidity
-• Chainlink
-• Base
-• AWS Amplify
-• local first persistence
+Stewards remain responsible for human hardship decisions.
 
+Current Architecture
+Six-Region Living Sanctuary
+            ↓
+      Covenant Hall
+            ↓
+     Candle Lighting
+            ↓
+   Optional Contribution
+            ↓
+     Dual Relief System
+            ↓
+    Human Stewardship
+       ↙          ↘
+Financial Relief   Time Relief
+       ↘          ↙
+      LIVE Public Witness
 
----
+Ruaviel is designed to be symbolic, practical, protective, and transparent:
 
-Demo
+Symbolic — sanctuary, candles, music, cinematic experience
+Practical — humanitarian relief coordination
+Protective — financial and time-relief pathways
+Transparent — public aggregate visibility into humanitarian impact
 
-Live Demo link
-
-Suggested flow:
-
-• connect a wallet
-• declare a hardship event
-• view the continuity timeline
-
-
----
-
-Documentation
-
-• Full Covenant — docs/covenant.md
-• Public Rules — docs/public-rules.md
-• DAO Overview — docs/dao-overview.md
-• Chainlink Anchor — docs/chainlink-anchor.md
-• Architecture — docs/architecture.md
-• V3_2 Specification — specs/V3_2-Specification.md
-
-
----
-
+Technology
+React
+Vite
+React Three Fiber / Three.js
+Solidity
+Base
+Chainlink
+AWS infrastructure
+Local-first persistence
 Status
 
 Ruaviel is in active development.
 
-Current repository components include:
+The repository contains the Living Sanctuary architecture, cinematic environment, humanitarian protocol specifications, continuity systems, blockchain components, and Dual Relief System specification.
 
-• communication templates
-• continuity logic
-• UI components
-• covenant specifications
-• protocol documentation
-• Chainlink anchor integration
-
-
-
-
-
-
-
-
+Canonical specification: frontend/docs/02-protocol/dual-relief-system.md
 
 
 
