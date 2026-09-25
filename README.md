@@ -15,6 +15,10 @@ Sanctuary Core — Unity
 
 Ruaviel does not create a separate “Candle Room.” The candle ritual belongs within the existing sanctuary, specifically Covenant Hall, where symbolic participation and stewardship naturally meet.
 
+Faith and Universal Welcome
+
+Ruaviel is openly rooted in Christian faith, and every person is welcome regardless of belief or non-belief. Faith, prayer, conversion, or spiritual participation can never be conditions for dignity, privacy, access, or assistance. Ruaviel is held in perpetual stewardship and is permanently protected by its no-sale, no-capture covenant — it can never be sold, privatized, or converted into a private commercial enterprise.
+
 Dual Relief System
 
 The Dual Relief System adds a practical humanitarian layer to the sanctuary.
@@ -27,12 +31,12 @@ Participants may voluntarily light a symbolic candle. Lighting a candle does not
 
 Participants may separately make a voluntary financial contribution.
 
-The current canonical allocation is:
+The current canonical rule is:
 
-95% → Mercy / Relief Pool
-5% → Stewardship & Sustainability
+100% of every contribution explicitly designated, in writing, for humanitarian support enters the Mercy Treasury and is used only for participant/community assistance.
+Ruaviel's operating, stewardship, and founder-support costs are funded separately, through the Stability/Operations Treasury or aligned sponsorship — never from designated humanitarian contributions.
 
-The 5% allocation supports the founder/stewardship role and legitimate present or future costs required to sustain Ruaviel. Contributions do not purchase governance rights, influence over hardship decisions, or preferential treatment.
+Contributions do not purchase governance rights, influence over hardship decisions, or preferential treatment.
 
 3. Relief Requests
 
@@ -66,13 +70,13 @@ Blockchain & Verification
 
 Ruaviel uses blockchain and oracle infrastructure as verification and transparency layers, not as substitutes for human judgment.
 
-Base provides the intended public transaction/ledger layer for the Dual Relief System.
+Ruaviel has a deployed Base Mainnet Covenant Anchor contract and a historical Base Sepolia Chainlink Functions prototype. Neither is currently integrated into the current website codebase or humanitarian operations, and neither operates humanitarian payouts, treasury automation, hardship decisions, identity processing, or recipient-data handling. See the Deployment Registry linked below for verified addresses and transactions.
 
-Chainlink provides constrained verification and transparency signals.
+Base is the intended future public transaction/ledger layer for the Dual Relief System. Chainlink is intended to provide constrained verification and transparency signals once integrated.
 
-DAO mechanisms coordinate protocol-level decisions without governing individual hardship outcomes.
+DAO mechanisms are documented architecture for coordinating protocol-level decisions without governing individual hardship outcomes; DAO enforcement is not currently deployed or operational.
 
-Stewards remain responsible for human hardship decisions.
+Stewards remain responsible for human hardship decisions today, independent of implementation status elsewhere in the system.
 
 Current Architecture
 Six-Region Living Sanctuary
@@ -111,9 +115,11 @@ Status
 
 Ruaviel is in active development.
 
-The repository contains the Living Sanctuary architecture, cinematic environment, humanitarian protocol specifications, continuity systems, blockchain components, and Dual Relief System specification.
+Ruaviel’s public repositories document the Living Sanctuary architecture, cinematic environment, humanitarian protocol specifications, continuity systems, verified blockchain deployments, and Dual Relief System specification.
 
-Canonical specification: frontend/docs/02-protocol/dual-relief-system.md
+Canonical specification: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/02-protocol/dual-relief-system.md
+Covenant: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/01-charter/covenant.md
+Deployment Registry: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/02-protocol/deployment-registry.md
 
 
 
