@@ -17,7 +17,7 @@ Ruaviel does not create a separate “Candle Room.” The candle ritual belongs 
 
 Faith and Universal Welcome
 
-Ruaviel is openly rooted in Christian faith, and every person is welcome regardless of belief or non-belief. Faith, prayer, conversion, or spiritual participation can never be conditions for dignity, privacy, access, or assistance. Ruaviel is held in perpetual stewardship and is permanently protected by its no-sale, no-capture covenant — it can never be sold, privatized, or converted into a private commercial enterprise.
+Ruaviel is openly rooted in Christian faith, but it does not operate as a church or require religious participation. It is a humanitarian sanctuary open to every person, regardless of belief or non-belief. Faith, prayer, conversion, or spiritual participation can never be conditions for dignity, privacy, access, or assistance. Ruaviel is held in perpetual stewardship and is permanently protected by its no-sale, no-capture covenant — it can never be sold, privatized, or converted into a private commercial enterprise.
 
 Dual Relief System
 
