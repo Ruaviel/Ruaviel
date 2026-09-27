@@ -119,6 +119,7 @@ Public contributions, hardship intake, relief decisions, treasury operations, an
 
 Ruaviel’s public repositories document the Living Sanctuary architecture, cinematic environment, humanitarian protocol specifications, continuity systems, verified blockchain deployments, and Dual Relief System specification.
 
+Development progress: [PROGRESS.md](PROGRESS.md)
 Canonical specification: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/02-protocol/dual-relief-system.md
 Covenant: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/01-charter/covenant.md
 Deployment Registry: https://github.com/Ruaviel/ruaviel-public-deploy/blob/main/docs/02-protocol/deployment-registry.md
