@@ -17,30 +17,30 @@ Ruaviel does not create a separate “Candle Room.” The candle ritual belongs 
 
 Faith and Universal Welcome
 
-Ruaviel is openly rooted in Christian faith, but it does not operate as a church or require religious participation. It is a humanitarian sanctuary open to every person, regardless of belief or non-belief. Faith, prayer, conversion, or spiritual participation can never be conditions for dignity, privacy, access, or assistance. Ruaviel is held in perpetual stewardship and is permanently protected by its no-sale, no-capture covenant — it can never be sold, privatized, or converted into a private commercial enterprise.
+Ruaviel is openly rooted in Christian faith, but it does not operate as a church or require religious participation. It is a humanitarian sanctuary open to every person, regardless of belief or non-belief. Faith, prayer, conversion, or spiritual participation can never be conditions for dignity, privacy, access, or assistance. Ruaviel is intended to remain under perpetual stewardship. Its no-sale, no-capture covenant expresses the permanent governing commitment that Ruaviel should not be sold, privatized, or converted into a private commercial enterprise.
 
 Dual Relief System
 
-The Dual Relief System adds a practical humanitarian layer to the sanctuary.
+The Dual Relief System is designed to add a practical humanitarian layer to the sanctuary.
 
 1. Candle Lighting
 
-Participants may voluntarily light a symbolic candle. Lighting a candle does not require payment.
+The sanctuary is designed to let participants voluntarily light a symbolic candle, with no payment required.
 
 2. Optional Contribution
 
-Participants may separately make a voluntary financial contribution.
+Separately, the system is designed to let participants make a voluntary financial contribution.
 
-The current canonical rule is:
+The intended canonical rule is:
 
-100% of every contribution explicitly designated, in writing, for humanitarian support enters the Mercy Treasury and is used only for participant/community assistance.
-Ruaviel's operating, stewardship, and founder-support costs are funded separately, through the Stability/Operations Treasury or aligned sponsorship — never from designated humanitarian contributions.
+Under this design, 100% of every contribution explicitly designated, in writing, for humanitarian support would enter the Mercy Treasury and would be used only for participant/community assistance.
+Ruaviel's operating, stewardship, and founder-support costs would be funded separately through the Stability/Operations Treasury or aligned sponsorship — never from designated humanitarian contributions.
 
 Contributions do not purchase governance rights, influence over hardship decisions, or preferential treatment.
 
 3. Relief Requests
 
-Individuals may request assistance for legitimate hardship needs such as housing, food, medical expenses, connectivity, and continuity needs.
+The system is designed to let individuals request assistance for legitimate hardship needs such as housing, food, medical expenses, connectivity, and continuity needs.
 
 4. Two Relief Pathways
 
@@ -49,11 +49,11 @@ Time Relief — steward-mediated outreach seeking pauses, freezes, extensions, o
 
 5. Human Stewardship
 
-Stewards retain responsibility for evaluating hardship circumstances and coordinating sensitive human interactions. Automated systems do not replace human judgment.
+Under the intended model, stewards would retain responsibility for evaluating hardship circumstances and coordinating sensitive human interactions. Automated systems would not replace human judgment.
 
-6. LIVE Public Transparency
+6. Public Transparency
 
-Ruaviel includes a public witness layer designed to make humanitarian impact visible without exposing private hardship information.
+The planned public witness layer is designed to publish only aggregate information and never expose identities, medical information, addresses, individual hardship details, or other sensitive information.
 
 Aggregate information can include:
 
@@ -64,11 +64,9 @@ people assisted
 financial and time-relief outcomes
 aggregate hardship categories
 
-No identities, medical information, addresses, individual hardship details, or other sensitive information are publicly exposed.
-
 Blockchain & Verification
 
-Ruaviel uses blockchain and oracle infrastructure as verification and transparency layers, not as substitutes for human judgment.
+Ruaviel is designed to use blockchain and oracle infrastructure as verification and transparency layers, not as substitutes for human judgment.
 
 Ruaviel has a deployed Base Mainnet Covenant Anchor contract and a historical Base Sepolia Chainlink Functions prototype. Neither is currently integrated into the current website codebase or humanitarian operations, and neither operates humanitarian payouts, treasury automation, hardship decisions, identity processing, or recipient-data handling. See the Deployment Registry linked below for verified addresses and transactions.
 
@@ -76,9 +74,9 @@ Base is the intended future public transaction/ledger layer for the Dual Relief 
 
 DAO mechanisms are documented architecture for coordinating protocol-level decisions without governing individual hardship outcomes; DAO enforcement is not currently deployed or operational.
 
-Stewards remain responsible for human hardship decisions today, independent of implementation status elsewhere in the system.
+Under the intended model, stewards—not automated systems—would remain responsible for human hardship decisions.
 
-Current Architecture
+Intended Architecture
 Six-Region Living Sanctuary
             ↓
       Covenant Hall
@@ -93,7 +91,7 @@ Six-Region Living Sanctuary
        ↙          ↘
 Financial Relief   Time Relief
        ↘          ↙
-      LIVE Public Witness
+      Public Witness
 
 Ruaviel is designed to be symbolic, practical, protective, and transparent:
 
@@ -106,14 +104,18 @@ Technology
 React
 Vite
 React Three Fiber / Three.js
-Solidity
-Base
-Chainlink
+Solidity (deployed covenant anchor and prototypes)
+Base (deployed covenant anchor; future application integration)
+Chainlink (historical prototype)
 AWS infrastructure
 Local-first persistence
 Status
 
 Ruaviel is in active development.
+
+The immersive sanctuary is currently being developed and tested locally. It is not yet available as a public visitor experience.
+
+Public contributions, hardship intake, relief decisions, treasury operations, and relief distribution are not currently operational through this repository or a public Ruaviel website.
 
 Ruaviel’s public repositories document the Living Sanctuary architecture, cinematic environment, humanitarian protocol specifications, continuity systems, verified blockchain deployments, and Dual Relief System specification.
 
